@@ -1,3 +1,9 @@
 # writeups
 
-[a relative link](DawgCTF/README.md)
+*{The NaN Squad}* CTF History
+
+| CTF | Points | Place |
+|-----|--------|-------|
+| [DawgCTF](DawgCTF/README.md    |    -    |   -   |
+|     |        |       |
+|     |        |       |
