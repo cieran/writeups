@@ -1,4 +1,4 @@
-# {The Nan Squad} CTF Team
+# {The Nan Squad}
 
 **CTF Events**
 
