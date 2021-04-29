@@ -1,9 +1,9 @@
 # writeups
 
-*{The NaN Squad}* CTF History
+**{The NaN Squad} CTF History**
 
 | CTF | Points | Place |
 |-----|--------|-------|
-| [DawgCTF](DawgCTF/README.md    |    -    |   -   |
+| [DawgCTF](DawgCTF/README.md)    |    -    |   -   |
 |     |        |       |
 |     |        |       |
