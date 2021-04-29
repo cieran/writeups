@@ -1,6 +1,6 @@
-# writeups
+# {The Nan Squad} CTF Team
 
-**{The NaN Squad} CTF History**
+**CTF Events**
 
 | CTF              | Points | Place |
 |------------------|--------|-------|
