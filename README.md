@@ -11,4 +11,4 @@
 
 
 
-Check us out on [CTFTime](https://ctftime.org/event/1284).
+Check us out on [CTFTime](http://ctftime.org/team/150063).
