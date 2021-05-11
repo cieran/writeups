@@ -14,14 +14,14 @@
 | [cookin in the ramen](crypto/CookinRamen.md)                | Crypto    | 50     |
 | [Really Secure Algorithm](crypto/ReallySecureAlgorithm.md)  | Crypto    | 150    |
 | [The Obligatory RSA Challenge](crypto/ObligatoryRSA.md)     | Crypto    | 200    |
-| Third Eye                                                   | Audio/Radio   | 75 |
-| Tag, You're It!                                             | Audio/Radio   | 100 |
-| Deserted Island Toolkit                                     | Audio/Radio   | 150 |
-| Just a Comment                                              | Fwn           | 50  |
-| These Ladies Paved Your Way                                 | Fwn           | 150 |
-| Dr Hrabowski's Great Adventure                              | Fwn           | 150 |
+| [Third Eye](audio-radio/ThirdEye.md)                        | Audio/Radio   | 75 |
+| [Tag, You're It!](audio-radio/TagYoureIt.md)                | Audio/Radio   | 100 |
+| [Deserted Island Toolkit](audio-radio/DIT.md)               | Audio/Radio   | 150 |
+| [Just a Comment](fwn/JustAComment.md)                       | Fwn           | 50  |
+| [These Ladies Paved Your Way](fwn/TheseLadies.md)           | Fwn           | 150 |
+| [Dr Hrabowski's Great Adventure](fwn/Hrabowski.md)          | Fwn           | 150 |
 | [DawgCTF Discord](misc/DawgDiscord.md)                      | Misc          | 5   |
-| Identifications                                             | Misc          | 125 |
+| [Identifications](misc/Identifications.md)                  | Misc          | 125 |
 
 
 
