@@ -1,9 +1,9 @@
 # **DawgCTF 2021**
 
 
-| CTF Event                         | Points | Place |
-|------------------                 |--------|-------|
-| [DawgCTF](README.md)              | 1680   | 99th  |
+| CTF Event                                   | Points | Place |
+|------------------                           |--------|-------|
+| [DawgCTF](https://ctftime.org/event/1319)   | 1680   | 99th  |
 
 
 | Challenge                                                   | Category  | Points |
