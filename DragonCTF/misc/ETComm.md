@@ -14,7 +14,7 @@ Aw, man. I went down the rabbit hole on this one before eventually finding the f
 
 I was scratching my head, nothing was working. I read countless articles from NASA, NatGeo, and the likes, around how the original moon images were transmitted via radio signals back to NASA stations across Earth where they were decoded.
 
-I then came across an [Instructables article](https://www.instructables.com/Decode-Digital-Radio-Signals-From-Earth-or-Space/) on decoding images sent from space radio signals from Earth using SSTV.
+I then came across an [Instructables article](https://www.instructables.com/Decode-Digital-Radio-Signals-From-Earth-or-Space/) on decoding images sent from space via radio signals using SSTV.
 I did some digging on SSTV and listened to sample signals and noticed that PD120 signals had the same dial-up-style sounds that our audio did.
 A lot of the popular decoding tools were only on Windows / Android. I found a [tutorial](http://www.esa.int/ESA_Multimedia/Videos/2020/07/Mac_OSX_tutorial_How_to_receive_SSTV_pictures_from_the_International_Space_Station) from the European Space Agency on how to get set up on macOS using `MultiScan 3B` and `Soundflower`. This was perfect, thankfully I didn't have to risk it all on dodgy sourceforge installs 😳
 

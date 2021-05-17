@@ -15,15 +15,14 @@
 | [Encrypted The Flag I Have](misc/ETFIH.md)                  | Misc      | 100    |
 | [Extraterrestrial Communication](misc/ETComm.md)            | Misc      | 200    |
 | [Behind The Scenes](misc/BehindTheScenes.md)                | Misc      | 400    |
-| Julius' Ancient Script                                      | Crypto    | 100    |
-| Strong Password                                             | Crypto    | 100    |
-| Just Take Your Time                                         | Crypto    | 200    |
-| Simple Web                                                  | Web       | 100    |
-| Very Secure Website                                         | Web       | 200    |
-| Injection                                                   | Web       | 200    |
-| Pwn Sanity Check                                            | Pwn       | 100    |
-| Pinch Me                                                    | Pwn       | 100    |
-| Magic Trick                                                 | Pwn       | 300    |
+| [Julius' Ancient Script](crypto/JuliusAncientScript.md)     | Crypto    | 100    |
+| [Strong Password](crypto/StrongPassword.md)                 | Crypto    | 100    |
+| [Just Take Your Time](crypto/JustTakeYourTime.md)           | Crypto    | 200    |
+| [Simple Web](web/SimpleWeb.md)                              | Web       | 100    |
+| [Injection](web/Injection.md)                               | Web       | 200    |
+| [Pwn Sanity Check](pwn/PwnSanityCheck.md)                   | Pwn       | 100    |
+| [Pinch Me](pwn/PinchMe.md)                                  | Pwn       | 100    |
+| [Magic Trick](pwn/MagicTrick.md)                            | Pwn       | 300    |
 
 
 
