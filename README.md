@@ -4,7 +4,7 @@
 
 | CTF Event                         | Points | Place |
 |------------------                 |--------|-------|
-| CyberThreatForce CTF              | ????   | ????  |
+| CyberThreatForce CTF              | 2435   | 32nd  |
 | S.H.E.L.L CTF                     | 4037   | 16th  |
 | [DragonCTF](DragonCTF/README.md)  | 3900   | 77th  |
 | [DawgCTF](DawgCTF/README.md)      | 1680   | 99th  |
