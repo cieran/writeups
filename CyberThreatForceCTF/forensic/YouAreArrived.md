@@ -2,7 +2,7 @@
 
 ### Problem
 ```
-What is the flag hidden in the visited  github?
+What is the flag hidden in the visited github?
 (Use the file downloaded from Deep in my mind)
 ```
 
