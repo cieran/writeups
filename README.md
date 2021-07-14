@@ -4,6 +4,7 @@
 
 | CTF Event                                                   | Points | Place |
 |------------------                                           |--------|-------|
+| RedPwn 2021                                                 | 1474   | 182nd |
 | [CyberThreatForce CTF](CyberThreatForceCTF/README.md)       | 2435   | 32nd  |
 | S.H.E.L.L CTF                                               | 4037   | 16th  |
 | [DragonCTF](DragonCTF/README.md)                            | 3900   | 77th  |
