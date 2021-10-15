@@ -4,6 +4,8 @@
 
 | CTF Event                                                   | Points | Place |
 |------------------                                           |--------|-------|
+| DownUnderCTF 2021                                           | 2101   | 191st |
+| ALLES! CTF 2021                                             | 104    | 450th |
 | IJCTF 2021                                                  | 984    | 35th  |
 | RedPwn 2021                                                 | 1474   | 182nd |
 | [CyberThreatForce CTF](CyberThreatForceCTF/README.md)       | 2435   | 32nd  |
