@@ -4,6 +4,7 @@
 
 | CTF Event                                                   | Points | Place |
 |------------------                                           |--------|-------|
+| TFC CTF 2021                                                | 1100   | 64th  |
 | DownUnderCTF 2021                                           | 2101   | 191st |
 | ALLES! CTF 2021                                             | 104    | 450th |
 | IJCTF 2021                                                  | 984    | 35th  |
