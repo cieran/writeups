@@ -1,6 +1,15 @@
 # **{The Nan Squad}**
 
-**Previous Events**
+# 2022
+
+| CTF Event                                                   | Points | Place |
+|------------------                                           |--------|-------|
+| DefCamp 2022                                                | 536    | 90th  |
+| DiceCTF 2022                                                | 109    | 385th |
+| TetCTF 2022                                                 | 100    | 578th |
+
+
+# 2021
 
 | CTF Event                                                   | Points | Place |
 |------------------                                           |--------|-------|
