@@ -4,6 +4,9 @@
 
 | CTF Event                                                   | Points | Place |
 |------------------                                           |--------|-------|
+| JerseyCTF II                                                | 5375   | 52nd  |
+| DaVinciCTF 2022                                             | 687    | 158th |
+| UMDCTF 2022                                                 | 10185  | 32nd  |
 | DefCamp 2022                                                | 536    | 90th  |
 | DiceCTF 2022                                                | 109    | 385th |
 | TetCTF 2022                                                 | 100    | 578th |
