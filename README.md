@@ -4,6 +4,12 @@
 
 | CTF Event                                                   | Points | Place |
 |------------------                                           |--------|-------|
+| HeroCTF v4	                                                | 875    | 143rd |
+|	TJCTF                                                       | 1037   | 180th |
+|	ångstromCTF                                                 | 1261   | 178th |
+|	DawgCTF                                                     | 850    | 25th  |
+|	CUCTF                                                       | 1141   | 47th  |
+| b01lers CTF	                                                | 399    | 117th |
 | JerseyCTF II                                                | 5375   | 52nd  |
 | DaVinciCTF 2022                                             | 687    | 158th |
 | UMDCTF 2022                                                 | 10185  | 32nd  |
